@@ -1,0 +1,33 @@
+body {
+  font-family :"Verdana";
+}
+
+h1 {
+  text-align:center;
+  background-color:orange;
+}
+
+p , h2 {
+  font-family:"Verdana";
+  text-align:justify;
+  width:1200px;
+  margin-left:100px;
+  margin-right:100px;
+}
+
+article img {
+margin-left:100px;
+}
+
+#topless {
+  background-color:pink;
+  color:blue;
+}
+
+footer p {
+  color:blue;
+  background-color:yellow;
+  font-weight:bold;
+  font-size:24px;
+  margin-bottom:50px;
+}
